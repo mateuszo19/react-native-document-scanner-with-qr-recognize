@@ -9,3 +9,6 @@ and
 install [React Native Document Scanner](https://react-native-document-scanner.js.org)
 
 ### `npm install react-native-document-scanner-plugin`
+
+
+and set camera permission, this is described in the [React Native Document Scanner](https://react-native-document-scanner.js.org) documentation
