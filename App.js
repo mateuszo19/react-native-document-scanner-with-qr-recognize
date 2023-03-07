@@ -1,5 +1,5 @@
 import { createStackNavigator } from "@react-navigation/stack";
-import FileScanner from "./components/FileScanner/FileScanner";
+import FileScanner from "./FileScanner";
 
 
 const Stack = createStackNavigator();
